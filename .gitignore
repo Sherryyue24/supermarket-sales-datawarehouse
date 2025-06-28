@@ -63,7 +63,7 @@ temp/
 tmp/
 
 # Course materials (optional - uncomment if you don't want to include PDFs)
-# *.pdf
+*.pdf
 
 # Compressed files (if ressources/ directory contains the same files)
-# ressources.zip 
+ressources.zip 
